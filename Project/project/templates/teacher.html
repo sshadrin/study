@@ -1,0 +1,63 @@
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <title>Teacher</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+              integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+              crossorigin="anonymous">
+        <style>
+            .reg-form {
+                max-width: 800px;
+                margin: 0 auto;
+            }
+            .mb-2 {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+        </style>
+    </head>
+    <body>
+        <form class="reg-form" method="post">
+            <h1>Teacher section:</h1>
+            <div class="mb-3">
+                    <label for="name" class="form-label">name_teacher:</label>
+                    <input type="text" id="name" name="name_teacher" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">birth_year:</label>
+                    <input type="number" id="birth_year" name="birth_year" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">kafedra:</label>
+                    <input type="text" id="kafedra" name="kafedra" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">when_work_year:</label>
+                    <input type="number" id="when_work_year " name="when_work_year" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">stashz:</label>
+                    <input type="number" id="stashz" name="stashz" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">dolshznost:</label>
+                    <input type="text" id="dolshznost" name="dolshznost" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">sex:</label>
+                    <input type="text" id="sex" name="sex" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                    <label for="name" class="form-label">city:</label>
+                    <input type="text" id="city" name="city" class="reg-form__input form-control">
+            </div>
+            <div class="mb-3">
+                <div class="mb-2">
+                    <input type="button" class="btn btn-success" value="add">
+                    <input type="button" class="btn btn-success" value="update">
+                    <input type="button" class="btn btn-danger" value="delete">
+                </div>
+            </div>
+        </form>
+    </body>
+</html>
