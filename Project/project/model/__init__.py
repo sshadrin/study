@@ -56,8 +56,3 @@ def init_model(engine):
     #                     autoload=True, autoload_with=engine)
     # mapper(Reflected, t_reflected)
     return DBSession
-
-# Import your model modules here.
-from project.model.auth import User, Group, Permission
-
-__all__ = ('User', 'Group', 'Permission')
