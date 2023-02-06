@@ -1,0 +1,15 @@
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.csproj.AssemblyReference.cache
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.AssemblyInfoInputs.cache
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.AssemblyInfo.cs
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.csproj.CoreCompileInputs.cache
+C:\Users\sshad\Desktop\C# study\example22\bin\Debug\net6.0\example22.exe
+C:\Users\sshad\Desktop\C# study\example22\bin\Debug\net6.0\example22.deps.json
+C:\Users\sshad\Desktop\C# study\example22\bin\Debug\net6.0\example22.runtimeconfig.json
+C:\Users\sshad\Desktop\C# study\example22\bin\Debug\net6.0\example22.dll
+C:\Users\sshad\Desktop\C# study\example22\bin\Debug\net6.0\example22.pdb
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.dll
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\refint\example22.dll
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.pdb
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\example22.genruntimeconfig.cache
+C:\Users\sshad\Desktop\C# study\example22\obj\Debug\net6.0\ref\example22.dll
